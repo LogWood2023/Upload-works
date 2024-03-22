@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"JS_math",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"JS_math",
+  "parent":{
+    "name":"按钮资源及脚本",
+    "path":"folders/按钮资源及脚本.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

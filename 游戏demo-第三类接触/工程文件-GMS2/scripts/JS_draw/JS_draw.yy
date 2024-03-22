@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"JS_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"JS_draw",
+  "parent":{
+    "name":"按钮资源及脚本",
+    "path":"folders/按钮资源及脚本.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

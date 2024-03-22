@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Js_drawChinese",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Js_drawChinese",
+  "parent":{
+    "name":"按钮资源及脚本",
+    "path":"folders/按钮资源及脚本.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
